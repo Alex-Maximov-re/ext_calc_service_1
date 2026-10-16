@@ -1,0 +1,6146 @@
+[
+  {
+    "dict_key": 2225,
+    "elem_idx": 0,
+    "elem_id": "1",
+    "elem_name": "Строка",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2225,
+    "elem_idx": 1,
+    "elem_id": "2",
+    "elem_name": "Число",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2225,
+    "elem_idx": 2,
+    "elem_id": "3",
+    "elem_name": "Дата",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2557,
+    "elem_idx": 0,
+    "elem_id": "1",
+    "elem_name": "Без учета валюты",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2557,
+    "elem_idx": 1,
+    "elem_id": "2",
+    "elem_name": "Валюты договора",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2557,
+    "elem_idx": 2,
+    "elem_id": "3",
+    "elem_name": "Рубль РФ",
+    "elem_parent": 1,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2557,
+    "elem_idx": 3,
+    "elem_id": "4",
+    "elem_name": "USD",
+    "elem_parent": 1,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2557,
+    "elem_idx": 4,
+    "elem_id": "5",
+    "elem_name": "Euro",
+    "elem_parent": 1,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2557,
+    "elem_idx": 5,
+    "elem_id": "6",
+    "elem_name": "Валюта бюджета",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2557,
+    "elem_idx": 6,
+    "elem_id": "7",
+    "elem_name": "Рубль РФ (отчет)",
+    "elem_parent": 5,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2557,
+    "elem_idx": 7,
+    "elem_id": "8",
+    "elem_name": "USD (отчет)",
+    "elem_parent": 5,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2554,
+    "elem_idx": 0,
+    "elem_id": "YEARS:2017",
+    "elem_name": "2017",
+    "elem_parent": -1,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2554,
+    "elem_idx": 1,
+    "elem_id": "YEARS:2018",
+    "elem_name": "2018",
+    "elem_parent": -1,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 0,
+    "elem_id": "1",
+    "elem_name": "Итого по контрактам",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 1,
+    "elem_id": "2",
+    "elem_name": "Без учета контракта",
+    "elem_parent": 0,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 2,
+    "elem_id": "3",
+    "elem_name": "Всего по госконтрактам",
+    "elem_parent": 0,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 3,
+    "elem_id": "4",
+    "elem_name": "ФКП России на 2016-2025 годы",
+    "elem_parent": 2,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 4,
+    "elem_id": "5",
+    "elem_name": "ОКР Деятельность",
+    "elem_parent": 3,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 5,
+    "elem_id": "6",
+    "elem_name": "Реализация пилотируемых космических программ ",
+    "elem_parent": 4,
+    "elem_level_key": 4
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 6,
+    "elem_id": "7",
+    "elem_name": "НИОКР",
+    "elem_parent": 5,
+    "elem_level_key": 5
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 7,
+    "elem_id": "8",
+    "elem_name": "Пилотируемые транспортные корабли (и составные части)",
+    "elem_parent": 6,
+    "elem_level_key": 6
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 8,
+    "elem_id": "9",
+    "elem_name": "Госконтракт 1",
+    "elem_parent": 7,
+    "elem_level_key": 7
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 9,
+    "elem_id": "10",
+    "elem_name": "Договор 1.1",
+    "elem_parent": 8,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 10,
+    "elem_id": "17",
+    "elem_name": "Вспомогательные госконтракты",
+    "elem_parent": 7,
+    "elem_level_key": 7
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 11,
+    "elem_id": "18",
+    "elem_name": "Вспомогательный договор 1",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 12,
+    "elem_id": "19",
+    "elem_name": "Вспомогательный договор 2",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 13,
+    "elem_id": "20",
+    "elem_name": "Вспомогательный договор 3",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 14,
+    "elem_id": "21",
+    "elem_name": "Вспомогательный договор 4",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 15,
+    "elem_id": "22",
+    "elem_name": "Вспомогательный договор 5",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 16,
+    "elem_id": "23",
+    "elem_name": "Вспомогательный договор 6",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 17,
+    "elem_id": "24",
+    "elem_name": "Вспомогательный договор 7",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 18,
+    "elem_id": "25",
+    "elem_name": "Вспомогательный договор 8",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 19,
+    "elem_id": "26",
+    "elem_name": "Вспомогательный договор 9",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 20,
+    "elem_id": "27",
+    "elem_name": "Вспомогательный договор 10",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 21,
+    "elem_id": "28",
+    "elem_name": "Вспомогательный договор 11",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 22,
+    "elem_id": "29",
+    "elem_name": "Вспомогательный договор 12",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 23,
+    "elem_id": "30",
+    "elem_name": "Вспомогательный договор 13",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 24,
+    "elem_id": "31",
+    "elem_name": "Вспомогательный договор 14",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 25,
+    "elem_id": "32",
+    "elem_name": "Вспомогательный договор 15",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 26,
+    "elem_id": "33",
+    "elem_name": "Вспомогательный договор 16",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 27,
+    "elem_id": "34",
+    "elem_name": "Вспомогательный договор 17",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 28,
+    "elem_id": "35",
+    "elem_name": "Вспомогательный договор 18",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 29,
+    "elem_id": "36",
+    "elem_name": "Вспомогательный договор 19",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 30,
+    "elem_id": "37",
+    "elem_name": "Вспомогательный договор 20",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 31,
+    "elem_id": "38",
+    "elem_name": "Вспомогательный договор 21",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 32,
+    "elem_id": "39",
+    "elem_name": "Вспомогательный договор 22",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 33,
+    "elem_id": "40",
+    "elem_name": "Вспомогательный договор 23",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 34,
+    "elem_id": "41",
+    "elem_name": "Вспомогательный договор 24",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 35,
+    "elem_id": "42",
+    "elem_name": "Вспомогательный договор 25",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 36,
+    "elem_id": "43",
+    "elem_name": "Вспомогательный договор 26",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 37,
+    "elem_id": "44",
+    "elem_name": "Вспомогательный договор 27",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 38,
+    "elem_id": "45",
+    "elem_name": "Вспомогательный договор 28",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 39,
+    "elem_id": "46",
+    "elem_name": "Вспомогательный договор 29",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 40,
+    "elem_id": "47",
+    "elem_name": "Вспомогательный договор 30",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 41,
+    "elem_id": "48",
+    "elem_name": "Вспомогательный договор 31",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 42,
+    "elem_id": "49",
+    "elem_name": "Вспомогательный договор 32",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 43,
+    "elem_id": "50",
+    "elem_name": "Вспомогательный договор 33",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 44,
+    "elem_id": "51",
+    "elem_name": "Вспомогательный договор 34",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 45,
+    "elem_id": "52",
+    "elem_name": "Вспомогательный договор 35",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 46,
+    "elem_id": "53",
+    "elem_name": "Вспомогательный договор 36",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 47,
+    "elem_id": "54",
+    "elem_name": "Вспомогательный договор 37",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 48,
+    "elem_id": "55",
+    "elem_name": "Вспомогательный договор 38",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 49,
+    "elem_id": "56",
+    "elem_name": "Вспомогательный договор 39",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 50,
+    "elem_id": "57",
+    "elem_name": "Вспомогательный договор 40",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 51,
+    "elem_id": "58",
+    "elem_name": "Вспомогательный договор 41",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 52,
+    "elem_id": "59",
+    "elem_name": "Вспомогательный договор 42",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 53,
+    "elem_id": "60",
+    "elem_name": "Вспомогательный договор 43",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 54,
+    "elem_id": "61",
+    "elem_name": "Вспомогательный договор 44",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 55,
+    "elem_id": "62",
+    "elem_name": "Вспомогательный договор 45",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 56,
+    "elem_id": "63",
+    "elem_name": "Вспомогательный договор 46",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 57,
+    "elem_id": "64",
+    "elem_name": "Вспомогательный договор 47",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 58,
+    "elem_id": "65",
+    "elem_name": "Вспомогательный договор 48",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 59,
+    "elem_id": "66",
+    "elem_name": "Вспомогательный договор 49",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 60,
+    "elem_id": "67",
+    "elem_name": "Вспомогательный договор 50",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 61,
+    "elem_id": "68",
+    "elem_name": "Вспомогательный договор 51",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 62,
+    "elem_id": "69",
+    "elem_name": "Вспомогательный договор 52",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 63,
+    "elem_id": "70",
+    "elem_name": "Вспомогательный договор 53",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 64,
+    "elem_id": "71",
+    "elem_name": "Вспомогательный договор 54",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 65,
+    "elem_id": "72",
+    "elem_name": "Вспомогательный договор 55",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 66,
+    "elem_id": "73",
+    "elem_name": "Вспомогательный договор 56",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 67,
+    "elem_id": "74",
+    "elem_name": "Вспомогательный договор 57",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 68,
+    "elem_id": "75",
+    "elem_name": "Вспомогательный договор 58",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 69,
+    "elem_id": "76",
+    "elem_name": "Вспомогательный договор 59",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 70,
+    "elem_id": "77",
+    "elem_name": "Вспомогательный договор 60",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 71,
+    "elem_id": "78",
+    "elem_name": "Вспомогательный договор 61",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 72,
+    "elem_id": "79",
+    "elem_name": "Вспомогательный договор 62",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 73,
+    "elem_id": "80",
+    "elem_name": "Вспомогательный договор 63",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 74,
+    "elem_id": "81",
+    "elem_name": "Вспомогательный договор 64",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 75,
+    "elem_id": "82",
+    "elem_name": "Вспомогательный договор 65",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 76,
+    "elem_id": "83",
+    "elem_name": "Вспомогательный договор 66",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 77,
+    "elem_id": "84",
+    "elem_name": "Вспомогательный договор 67",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 78,
+    "elem_id": "85",
+    "elem_name": "Вспомогательный договор 68",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 79,
+    "elem_id": "86",
+    "elem_name": "Вспомогательный договор 69",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 80,
+    "elem_id": "87",
+    "elem_name": "Вспомогательный договор 70",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 81,
+    "elem_id": "88",
+    "elem_name": "Вспомогательный договор 71",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 82,
+    "elem_id": "89",
+    "elem_name": "Вспомогательный договор 72",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 83,
+    "elem_id": "90",
+    "elem_name": "Вспомогательный договор 73",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 84,
+    "elem_id": "91",
+    "elem_name": "Вспомогательный договор 74",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 85,
+    "elem_id": "92",
+    "elem_name": "Вспомогательный договор 75",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 86,
+    "elem_id": "93",
+    "elem_name": "Вспомогательный договор 76",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 87,
+    "elem_id": "94",
+    "elem_name": "Вспомогательный договор 77",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 88,
+    "elem_id": "95",
+    "elem_name": "Вспомогательный договор 78",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 89,
+    "elem_id": "96",
+    "elem_name": "Вспомогательный договор 79",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 90,
+    "elem_id": "97",
+    "elem_name": "Вспомогательный договор 80",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 91,
+    "elem_id": "98",
+    "elem_name": "Вспомогательный договор 81",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 92,
+    "elem_id": "99",
+    "elem_name": "Вспомогательный договор 82",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 93,
+    "elem_id": "100",
+    "elem_name": "Вспомогательный договор 83",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 94,
+    "elem_id": "101",
+    "elem_name": "Вспомогательный договор 84",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 95,
+    "elem_id": "102",
+    "elem_name": "Вспомогательный договор 85",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 96,
+    "elem_id": "103",
+    "elem_name": "Вспомогательный договор 86",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 97,
+    "elem_id": "104",
+    "elem_name": "Вспомогательный договор 87",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 98,
+    "elem_id": "105",
+    "elem_name": "Вспомогательный договор 88",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 99,
+    "elem_id": "106",
+    "elem_name": "Вспомогательный договор 89",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 100,
+    "elem_id": "107",
+    "elem_name": "Вспомогательный договор 90",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 101,
+    "elem_id": "108",
+    "elem_name": "Вспомогательный договор 91",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 102,
+    "elem_id": "109",
+    "elem_name": "Вспомогательный договор 92",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 103,
+    "elem_id": "110",
+    "elem_name": "Вспомогательный договор 93",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 104,
+    "elem_id": "111",
+    "elem_name": "Вспомогательный договор 94",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 105,
+    "elem_id": "112",
+    "elem_name": "Вспомогательный договор 95",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 106,
+    "elem_id": "113",
+    "elem_name": "Вспомогательный договор 96",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 107,
+    "elem_id": "114",
+    "elem_name": "Вспомогательный договор 97",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 108,
+    "elem_id": "115",
+    "elem_name": "Вспомогательный договор 98",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 109,
+    "elem_id": "116",
+    "elem_name": "Вспомогательный договор 99",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 110,
+    "elem_id": "117",
+    "elem_name": "Вспомогательный договор 100",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 111,
+    "elem_id": "118",
+    "elem_name": "Вспомогательный договор 101",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 112,
+    "elem_id": "119",
+    "elem_name": "Вспомогательный договор 102",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 113,
+    "elem_id": "120",
+    "elem_name": "Вспомогательный договор 103",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 114,
+    "elem_id": "121",
+    "elem_name": "Вспомогательный договор 104",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 115,
+    "elem_id": "122",
+    "elem_name": "Вспомогательный договор 105",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 116,
+    "elem_id": "123",
+    "elem_name": "Вспомогательный договор 106",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 117,
+    "elem_id": "124",
+    "elem_name": "Вспомогательный договор 107",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 118,
+    "elem_id": "125",
+    "elem_name": "Вспомогательный договор 108",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 119,
+    "elem_id": "126",
+    "elem_name": "Вспомогательный договор 109",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 120,
+    "elem_id": "127",
+    "elem_name": "Вспомогательный договор 110",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 121,
+    "elem_id": "128",
+    "elem_name": "Вспомогательный договор 111",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 122,
+    "elem_id": "129",
+    "elem_name": "Вспомогательный договор 112",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 123,
+    "elem_id": "130",
+    "elem_name": "Вспомогательный договор 113",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 124,
+    "elem_id": "131",
+    "elem_name": "Вспомогательный договор 114",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 125,
+    "elem_id": "132",
+    "elem_name": "Вспомогательный договор 115",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 126,
+    "elem_id": "133",
+    "elem_name": "Вспомогательный договор 116",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 127,
+    "elem_id": "134",
+    "elem_name": "Вспомогательный договор 117",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 128,
+    "elem_id": "135",
+    "elem_name": "Вспомогательный договор 118",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 129,
+    "elem_id": "136",
+    "elem_name": "Вспомогательный договор 119",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 130,
+    "elem_id": "137",
+    "elem_name": "Вспомогательный договор 120",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 131,
+    "elem_id": "138",
+    "elem_name": "Вспомогательный договор 121",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 132,
+    "elem_id": "139",
+    "elem_name": "Вспомогательный договор 122",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 133,
+    "elem_id": "140",
+    "elem_name": "Вспомогательный договор 123",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 134,
+    "elem_id": "141",
+    "elem_name": "Вспомогательный договор 124",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 135,
+    "elem_id": "142",
+    "elem_name": "Вспомогательный договор 125",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 136,
+    "elem_id": "143",
+    "elem_name": "Вспомогательный договор 126",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 137,
+    "elem_id": "144",
+    "elem_name": "Вспомогательный договор 127",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 138,
+    "elem_id": "145",
+    "elem_name": "Вспомогательный договор 128",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 139,
+    "elem_id": "146",
+    "elem_name": "Вспомогательный договор 129",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 140,
+    "elem_id": "147",
+    "elem_name": "Вспомогательный договор 130",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 141,
+    "elem_id": "148",
+    "elem_name": "Вспомогательный договор 131",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 142,
+    "elem_id": "149",
+    "elem_name": "Вспомогательный договор 132",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 143,
+    "elem_id": "150",
+    "elem_name": "Вспомогательный договор 133",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 144,
+    "elem_id": "151",
+    "elem_name": "Вспомогательный договор 134",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 145,
+    "elem_id": "152",
+    "elem_name": "Вспомогательный договор 135",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 146,
+    "elem_id": "153",
+    "elem_name": "Вспомогательный договор 136",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 147,
+    "elem_id": "154",
+    "elem_name": "Вспомогательный договор 137",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 148,
+    "elem_id": "155",
+    "elem_name": "Вспомогательный договор 138",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 149,
+    "elem_id": "156",
+    "elem_name": "Вспомогательный договор 139",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 150,
+    "elem_id": "157",
+    "elem_name": "Вспомогательный договор 140",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 151,
+    "elem_id": "158",
+    "elem_name": "Вспомогательный договор 141",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 152,
+    "elem_id": "159",
+    "elem_name": "Вспомогательный договор 142",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 153,
+    "elem_id": "160",
+    "elem_name": "Вспомогательный договор 143",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 154,
+    "elem_id": "161",
+    "elem_name": "Вспомогательный договор 144",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 155,
+    "elem_id": "162",
+    "elem_name": "Вспомогательный договор 145",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 156,
+    "elem_id": "163",
+    "elem_name": "Вспомогательный договор 146",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 157,
+    "elem_id": "164",
+    "elem_name": "Вспомогательный договор 147",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 158,
+    "elem_id": "165",
+    "elem_name": "Вспомогательный договор 148",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 159,
+    "elem_id": "166",
+    "elem_name": "Вспомогательный договор 149",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 160,
+    "elem_id": "167",
+    "elem_name": "Вспомогательный договор 150",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 161,
+    "elem_id": "168",
+    "elem_name": "Вспомогательный договор 151",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 162,
+    "elem_id": "169",
+    "elem_name": "Вспомогательный договор 152",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 163,
+    "elem_id": "170",
+    "elem_name": "Вспомогательный договор 153",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 164,
+    "elem_id": "171",
+    "elem_name": "Вспомогательный договор 154",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 165,
+    "elem_id": "172",
+    "elem_name": "Вспомогательный договор 155",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 166,
+    "elem_id": "173",
+    "elem_name": "Вспомогательный договор 156",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 167,
+    "elem_id": "174",
+    "elem_name": "Вспомогательный договор 157",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 168,
+    "elem_id": "175",
+    "elem_name": "Вспомогательный договор 158",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 169,
+    "elem_id": "176",
+    "elem_name": "Вспомогательный договор 159",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 170,
+    "elem_id": "177",
+    "elem_name": "Вспомогательный договор 160",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 171,
+    "elem_id": "178",
+    "elem_name": "Вспомогательный договор 161",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 172,
+    "elem_id": "179",
+    "elem_name": "Вспомогательный договор 162",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 173,
+    "elem_id": "180",
+    "elem_name": "Вспомогательный договор 163",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 174,
+    "elem_id": "181",
+    "elem_name": "Вспомогательный договор 164",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 175,
+    "elem_id": "182",
+    "elem_name": "Вспомогательный договор 165",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 176,
+    "elem_id": "183",
+    "elem_name": "Вспомогательный договор 166",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 177,
+    "elem_id": "184",
+    "elem_name": "Вспомогательный договор 167",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 178,
+    "elem_id": "185",
+    "elem_name": "Вспомогательный договор 168",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 179,
+    "elem_id": "186",
+    "elem_name": "Вспомогательный договор 169",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 180,
+    "elem_id": "187",
+    "elem_name": "Вспомогательный договор 170",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 181,
+    "elem_id": "188",
+    "elem_name": "Вспомогательный договор 171",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 182,
+    "elem_id": "189",
+    "elem_name": "Вспомогательный договор 172",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 183,
+    "elem_id": "190",
+    "elem_name": "Вспомогательный договор 173",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 184,
+    "elem_id": "191",
+    "elem_name": "Вспомогательный договор 174",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 185,
+    "elem_id": "192",
+    "elem_name": "Вспомогательный договор 175",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 186,
+    "elem_id": "193",
+    "elem_name": "Вспомогательный договор 176",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 187,
+    "elem_id": "194",
+    "elem_name": "Вспомогательный договор 177",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 188,
+    "elem_id": "195",
+    "elem_name": "Вспомогательный договор 178",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 189,
+    "elem_id": "196",
+    "elem_name": "Вспомогательный договор 179",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 190,
+    "elem_id": "197",
+    "elem_name": "Вспомогательный договор 180",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 191,
+    "elem_id": "198",
+    "elem_name": "Вспомогательный договор 181",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 192,
+    "elem_id": "199",
+    "elem_name": "Вспомогательный договор 182",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 193,
+    "elem_id": "200",
+    "elem_name": "Вспомогательный договор 183",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 194,
+    "elem_id": "201",
+    "elem_name": "Вспомогательный договор 184",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 195,
+    "elem_id": "202",
+    "elem_name": "Вспомогательный договор 185",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 196,
+    "elem_id": "203",
+    "elem_name": "Вспомогательный договор 186",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 197,
+    "elem_id": "204",
+    "elem_name": "Вспомогательный договор 187",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 198,
+    "elem_id": "205",
+    "elem_name": "Вспомогательный договор 188",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 199,
+    "elem_id": "206",
+    "elem_name": "Вспомогательный договор 189",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 200,
+    "elem_id": "207",
+    "elem_name": "Вспомогательный договор 190",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 201,
+    "elem_id": "208",
+    "elem_name": "Вспомогательный договор 191",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 202,
+    "elem_id": "209",
+    "elem_name": "Вспомогательный договор 192",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 203,
+    "elem_id": "210",
+    "elem_name": "Вспомогательный договор 193",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 204,
+    "elem_id": "211",
+    "elem_name": "Вспомогательный договор 194",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 205,
+    "elem_id": "212",
+    "elem_name": "Вспомогательный договор 195",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 206,
+    "elem_id": "213",
+    "elem_name": "Вспомогательный договор 196",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 207,
+    "elem_id": "214",
+    "elem_name": "Вспомогательный договор 197",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 208,
+    "elem_id": "215",
+    "elem_name": "Вспомогательный договор 198",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 209,
+    "elem_id": "216",
+    "elem_name": "Вспомогательный договор 199",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 210,
+    "elem_id": "217",
+    "elem_name": "Вспомогательный договор 200",
+    "elem_parent": 10,
+    "elem_level_key": 8
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 211,
+    "elem_id": "11",
+    "elem_name": "Всего по коммерческим контрактам",
+    "elem_parent": 0,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 212,
+    "elem_id": "12",
+    "elem_name": " Коммерциализация космической продукции и услуг",
+    "elem_parent": 211,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 213,
+    "elem_id": "13",
+    "elem_name": "Производство изделий неосновного профиля (диверсификация)",
+    "elem_parent": 212,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 214,
+    "elem_id": "14",
+    "elem_name": "Продукция для ТЭК (электрооборудование и др.)",
+    "elem_parent": 213,
+    "elem_level_key": 4
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 215,
+    "elem_id": "15",
+    "elem_name": "Контракт 2",
+    "elem_parent": 214,
+    "elem_level_key": 5
+  },
+  {
+    "dict_key": 2636,
+    "elem_idx": 216,
+    "elem_id": "16",
+    "elem_name": "Договор 2.1",
+    "elem_parent": 215,
+    "elem_level_key": 6
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 0,
+    "elem_id": "1",
+    "elem_name": "Всего по МВЗ",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 1,
+    "elem_id": "2",
+    "elem_name": "0. Орг. в целом",
+    "elem_parent": 0,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 2,
+    "elem_id": "3",
+    "elem_name": "1.1. Основное производство",
+    "elem_parent": 0,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 3,
+    "elem_id": "4",
+    "elem_name": "1.1.0 ОП Основное производство (в целом)",
+    "elem_parent": 2,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 4,
+    "elem_id": "5",
+    "elem_name": "1.6. Администрация",
+    "elem_parent": 0,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 5,
+    "elem_id": "6",
+    "elem_name": "1.6.0 А Администрация (в целом)",
+    "elem_parent": 4,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 6,
+    "elem_id": "209",
+    "elem_name": "1.6.1 Б Технический",
+    "elem_parent": 4,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 7,
+    "elem_id": "7",
+    "elem_name": "2.0 Вспомогательное производство",
+    "elem_parent": 0,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 8,
+    "elem_id": "8",
+    "elem_name": "2.0.1 ВП Вспомогательное производство 1",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 9,
+    "elem_id": "9",
+    "elem_name": "2.0.2 ВП Вспомогательное производство 2",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 10,
+    "elem_id": "10",
+    "elem_name": "2.0.3 ВП Вспомогательное производство 3",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 11,
+    "elem_id": "11",
+    "elem_name": "2.0.4 ВП Вспомогательное производство 4",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 12,
+    "elem_id": "12",
+    "elem_name": "2.0.5 ВП Вспомогательное производство 5",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 13,
+    "elem_id": "13",
+    "elem_name": "2.0.6 ВП Вспомогательное производство 6",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 14,
+    "elem_id": "14",
+    "elem_name": "2.0.7 ВП Вспомогательное производство 7",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 15,
+    "elem_id": "15",
+    "elem_name": "2.0.8 ВП Вспомогательное производство 8",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 16,
+    "elem_id": "16",
+    "elem_name": "2.0.9 ВП Вспомогательное производство 9",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 17,
+    "elem_id": "17",
+    "elem_name": "2.0.10 ВП Вспомогательное производство 10",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 18,
+    "elem_id": "18",
+    "elem_name": "2.0.11 ВП Вспомогательное производство 11",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 19,
+    "elem_id": "19",
+    "elem_name": "2.0.12 ВП Вспомогательное производство 12",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 20,
+    "elem_id": "20",
+    "elem_name": "2.0.13 ВП Вспомогательное производство 13",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 21,
+    "elem_id": "21",
+    "elem_name": "2.0.14 ВП Вспомогательное производство 14",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 22,
+    "elem_id": "22",
+    "elem_name": "2.0.15 ВП Вспомогательное производство 15",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 23,
+    "elem_id": "23",
+    "elem_name": "2.0.16 ВП Вспомогательное производство 16",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 24,
+    "elem_id": "24",
+    "elem_name": "2.0.17 ВП Вспомогательное производство 17",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 25,
+    "elem_id": "25",
+    "elem_name": "2.0.18 ВП Вспомогательное производство 18",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 26,
+    "elem_id": "26",
+    "elem_name": "2.0.19 ВП Вспомогательное производство 19",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 27,
+    "elem_id": "27",
+    "elem_name": "2.0.20 ВП Вспомогательное производство 20",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 28,
+    "elem_id": "28",
+    "elem_name": "2.0.21 ВП Вспомогательное производство 21",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 29,
+    "elem_id": "29",
+    "elem_name": "2.0.22 ВП Вспомогательное производство 22",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 30,
+    "elem_id": "30",
+    "elem_name": "2.0.23 ВП Вспомогательное производство 23",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 31,
+    "elem_id": "31",
+    "elem_name": "2.0.24 ВП Вспомогательное производство 24",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 32,
+    "elem_id": "32",
+    "elem_name": "2.0.25 ВП Вспомогательное производство 25",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 33,
+    "elem_id": "33",
+    "elem_name": "2.0.26 ВП Вспомогательное производство 26",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 34,
+    "elem_id": "34",
+    "elem_name": "2.0.27 ВП Вспомогательное производство 27",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 35,
+    "elem_id": "35",
+    "elem_name": "2.0.28 ВП Вспомогательное производство 28",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 36,
+    "elem_id": "36",
+    "elem_name": "2.0.29 ВП Вспомогательное производство 29",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 37,
+    "elem_id": "37",
+    "elem_name": "2.0.30 ВП Вспомогательное производство 30",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 38,
+    "elem_id": "38",
+    "elem_name": "2.0.31 ВП Вспомогательное производство 31",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 39,
+    "elem_id": "39",
+    "elem_name": "2.0.32 ВП Вспомогательное производство 32",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 40,
+    "elem_id": "40",
+    "elem_name": "2.0.33 ВП Вспомогательное производство 33",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 41,
+    "elem_id": "41",
+    "elem_name": "2.0.34 ВП Вспомогательное производство 34",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 42,
+    "elem_id": "42",
+    "elem_name": "2.0.35 ВП Вспомогательное производство 35",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 43,
+    "elem_id": "43",
+    "elem_name": "2.0.36 ВП Вспомогательное производство 36",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 44,
+    "elem_id": "44",
+    "elem_name": "2.0.37 ВП Вспомогательное производство 37",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 45,
+    "elem_id": "45",
+    "elem_name": "2.0.38 ВП Вспомогательное производство 38",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 46,
+    "elem_id": "46",
+    "elem_name": "2.0.39 ВП Вспомогательное производство 39",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 47,
+    "elem_id": "47",
+    "elem_name": "2.0.40 ВП Вспомогательное производство 40",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 48,
+    "elem_id": "48",
+    "elem_name": "2.0.41 ВП Вспомогательное производство 41",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 49,
+    "elem_id": "49",
+    "elem_name": "2.0.42 ВП Вспомогательное производство 42",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 50,
+    "elem_id": "50",
+    "elem_name": "2.0.43 ВП Вспомогательное производство 43",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 51,
+    "elem_id": "51",
+    "elem_name": "2.0.44 ВП Вспомогательное производство 44",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 52,
+    "elem_id": "52",
+    "elem_name": "2.0.45 ВП Вспомогательное производство 45",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 53,
+    "elem_id": "53",
+    "elem_name": "2.0.46 ВП Вспомогательное производство 46",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 54,
+    "elem_id": "54",
+    "elem_name": "2.0.47 ВП Вспомогательное производство 47",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 55,
+    "elem_id": "55",
+    "elem_name": "2.0.48 ВП Вспомогательное производство 48",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 56,
+    "elem_id": "56",
+    "elem_name": "2.0.49 ВП Вспомогательное производство 49",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 57,
+    "elem_id": "57",
+    "elem_name": "2.0.50 ВП Вспомогательное производство 50",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 58,
+    "elem_id": "58",
+    "elem_name": "2.0.51 ВП Вспомогательное производство 51",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 59,
+    "elem_id": "59",
+    "elem_name": "2.0.52 ВП Вспомогательное производство 52",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 60,
+    "elem_id": "60",
+    "elem_name": "2.0.53 ВП Вспомогательное производство 53",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 61,
+    "elem_id": "61",
+    "elem_name": "2.0.54 ВП Вспомогательное производство 54",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 62,
+    "elem_id": "62",
+    "elem_name": "2.0.55 ВП Вспомогательное производство 55",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 63,
+    "elem_id": "63",
+    "elem_name": "2.0.56 ВП Вспомогательное производство 56",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 64,
+    "elem_id": "64",
+    "elem_name": "2.0.57 ВП Вспомогательное производство 57",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 65,
+    "elem_id": "65",
+    "elem_name": "2.0.58 ВП Вспомогательное производство 58",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 66,
+    "elem_id": "66",
+    "elem_name": "2.0.59 ВП Вспомогательное производство 59",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 67,
+    "elem_id": "67",
+    "elem_name": "2.0.60 ВП Вспомогательное производство 60",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 68,
+    "elem_id": "68",
+    "elem_name": "2.0.61 ВП Вспомогательное производство 61",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 69,
+    "elem_id": "69",
+    "elem_name": "2.0.62 ВП Вспомогательное производство 62",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 70,
+    "elem_id": "70",
+    "elem_name": "2.0.63 ВП Вспомогательное производство 63",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 71,
+    "elem_id": "71",
+    "elem_name": "2.0.64 ВП Вспомогательное производство 64",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 72,
+    "elem_id": "72",
+    "elem_name": "2.0.65 ВП Вспомогательное производство 65",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 73,
+    "elem_id": "73",
+    "elem_name": "2.0.66 ВП Вспомогательное производство 66",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 74,
+    "elem_id": "74",
+    "elem_name": "2.0.67 ВП Вспомогательное производство 67",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 75,
+    "elem_id": "75",
+    "elem_name": "2.0.68 ВП Вспомогательное производство 68",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 76,
+    "elem_id": "76",
+    "elem_name": "2.0.69 ВП Вспомогательное производство 69",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 77,
+    "elem_id": "77",
+    "elem_name": "2.0.70 ВП Вспомогательное производство 70",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 78,
+    "elem_id": "78",
+    "elem_name": "2.0.71 ВП Вспомогательное производство 71",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 79,
+    "elem_id": "79",
+    "elem_name": "2.0.72 ВП Вспомогательное производство 72",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 80,
+    "elem_id": "80",
+    "elem_name": "2.0.73 ВП Вспомогательное производство 73",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 81,
+    "elem_id": "81",
+    "elem_name": "2.0.74 ВП Вспомогательное производство 74",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 82,
+    "elem_id": "82",
+    "elem_name": "2.0.75 ВП Вспомогательное производство 75",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 83,
+    "elem_id": "83",
+    "elem_name": "2.0.76 ВП Вспомогательное производство 76",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 84,
+    "elem_id": "84",
+    "elem_name": "2.0.77 ВП Вспомогательное производство 77",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 85,
+    "elem_id": "85",
+    "elem_name": "2.0.78 ВП Вспомогательное производство 78",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 86,
+    "elem_id": "86",
+    "elem_name": "2.0.79 ВП Вспомогательное производство 79",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 87,
+    "elem_id": "87",
+    "elem_name": "2.0.80 ВП Вспомогательное производство 80",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 88,
+    "elem_id": "88",
+    "elem_name": "2.0.81 ВП Вспомогательное производство 81",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 89,
+    "elem_id": "89",
+    "elem_name": "2.0.82 ВП Вспомогательное производство 82",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 90,
+    "elem_id": "90",
+    "elem_name": "2.0.83 ВП Вспомогательное производство 83",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 91,
+    "elem_id": "91",
+    "elem_name": "2.0.84 ВП Вспомогательное производство 84",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 92,
+    "elem_id": "92",
+    "elem_name": "2.0.85 ВП Вспомогательное производство 85",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 93,
+    "elem_id": "93",
+    "elem_name": "2.0.86 ВП Вспомогательное производство 86",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 94,
+    "elem_id": "94",
+    "elem_name": "2.0.87 ВП Вспомогательное производство 87",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 95,
+    "elem_id": "95",
+    "elem_name": "2.0.88 ВП Вспомогательное производство 88",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 96,
+    "elem_id": "96",
+    "elem_name": "2.0.89 ВП Вспомогательное производство 89",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 97,
+    "elem_id": "97",
+    "elem_name": "2.0.90 ВП Вспомогательное производство 90",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 98,
+    "elem_id": "98",
+    "elem_name": "2.0.91 ВП Вспомогательное производство 91",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 99,
+    "elem_id": "99",
+    "elem_name": "2.0.92 ВП Вспомогательное производство 92",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 100,
+    "elem_id": "100",
+    "elem_name": "2.0.93 ВП Вспомогательное производство 93",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 101,
+    "elem_id": "101",
+    "elem_name": "2.0.94 ВП Вспомогательное производство 94",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 102,
+    "elem_id": "102",
+    "elem_name": "2.0.95 ВП Вспомогательное производство 95",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 103,
+    "elem_id": "103",
+    "elem_name": "2.0.96 ВП Вспомогательное производство 96",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 104,
+    "elem_id": "104",
+    "elem_name": "2.0.97 ВП Вспомогательное производство 97",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 105,
+    "elem_id": "105",
+    "elem_name": "2.0.98 ВП Вспомогательное производство 98",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 106,
+    "elem_id": "106",
+    "elem_name": "2.0.99 ВП Вспомогательное производство 99",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 107,
+    "elem_id": "107",
+    "elem_name": "2.0.100 ВП Вспомогательное производство 100",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 108,
+    "elem_id": "108",
+    "elem_name": "2.0.101 ВП Вспомогательное производство 101",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 109,
+    "elem_id": "109",
+    "elem_name": "2.0.102 ВП Вспомогательное производство 102",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 110,
+    "elem_id": "110",
+    "elem_name": "2.0.103 ВП Вспомогательное производство 103",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 111,
+    "elem_id": "111",
+    "elem_name": "2.0.104 ВП Вспомогательное производство 104",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 112,
+    "elem_id": "112",
+    "elem_name": "2.0.105 ВП Вспомогательное производство 105",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 113,
+    "elem_id": "113",
+    "elem_name": "2.0.106 ВП Вспомогательное производство 106",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 114,
+    "elem_id": "114",
+    "elem_name": "2.0.107 ВП Вспомогательное производство 107",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 115,
+    "elem_id": "115",
+    "elem_name": "2.0.108 ВП Вспомогательное производство 108",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 116,
+    "elem_id": "116",
+    "elem_name": "2.0.109 ВП Вспомогательное производство 109",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 117,
+    "elem_id": "117",
+    "elem_name": "2.0.110 ВП Вспомогательное производство 110",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 118,
+    "elem_id": "118",
+    "elem_name": "2.0.111 ВП Вспомогательное производство 111",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 119,
+    "elem_id": "119",
+    "elem_name": "2.0.112 ВП Вспомогательное производство 112",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 120,
+    "elem_id": "120",
+    "elem_name": "2.0.113 ВП Вспомогательное производство 113",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 121,
+    "elem_id": "121",
+    "elem_name": "2.0.114 ВП Вспомогательное производство 114",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 122,
+    "elem_id": "122",
+    "elem_name": "2.0.115 ВП Вспомогательное производство 115",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 123,
+    "elem_id": "123",
+    "elem_name": "2.0.116 ВП Вспомогательное производство 116",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 124,
+    "elem_id": "124",
+    "elem_name": "2.0.117 ВП Вспомогательное производство 117",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 125,
+    "elem_id": "125",
+    "elem_name": "2.0.118 ВП Вспомогательное производство 118",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 126,
+    "elem_id": "126",
+    "elem_name": "2.0.119 ВП Вспомогательное производство 119",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 127,
+    "elem_id": "127",
+    "elem_name": "2.0.120 ВП Вспомогательное производство 120",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 128,
+    "elem_id": "128",
+    "elem_name": "2.0.121 ВП Вспомогательное производство 121",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 129,
+    "elem_id": "129",
+    "elem_name": "2.0.122 ВП Вспомогательное производство 122",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 130,
+    "elem_id": "130",
+    "elem_name": "2.0.123 ВП Вспомогательное производство 123",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 131,
+    "elem_id": "131",
+    "elem_name": "2.0.124 ВП Вспомогательное производство 124",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 132,
+    "elem_id": "132",
+    "elem_name": "2.0.125 ВП Вспомогательное производство 125",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 133,
+    "elem_id": "133",
+    "elem_name": "2.0.126 ВП Вспомогательное производство 126",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 134,
+    "elem_id": "134",
+    "elem_name": "2.0.127 ВП Вспомогательное производство 127",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 135,
+    "elem_id": "135",
+    "elem_name": "2.0.128 ВП Вспомогательное производство 128",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 136,
+    "elem_id": "136",
+    "elem_name": "2.0.129 ВП Вспомогательное производство 129",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 137,
+    "elem_id": "137",
+    "elem_name": "2.0.130 ВП Вспомогательное производство 130",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 138,
+    "elem_id": "138",
+    "elem_name": "2.0.131 ВП Вспомогательное производство 131",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 139,
+    "elem_id": "139",
+    "elem_name": "2.0.132 ВП Вспомогательное производство 132",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 140,
+    "elem_id": "140",
+    "elem_name": "2.0.133 ВП Вспомогательное производство 133",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 141,
+    "elem_id": "141",
+    "elem_name": "2.0.134 ВП Вспомогательное производство 134",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 142,
+    "elem_id": "142",
+    "elem_name": "2.0.135 ВП Вспомогательное производство 135",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 143,
+    "elem_id": "143",
+    "elem_name": "2.0.136 ВП Вспомогательное производство 136",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 144,
+    "elem_id": "144",
+    "elem_name": "2.0.137 ВП Вспомогательное производство 137",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 145,
+    "elem_id": "145",
+    "elem_name": "2.0.138 ВП Вспомогательное производство 138",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 146,
+    "elem_id": "146",
+    "elem_name": "2.0.139 ВП Вспомогательное производство 139",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 147,
+    "elem_id": "147",
+    "elem_name": "2.0.140 ВП Вспомогательное производство 140",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 148,
+    "elem_id": "148",
+    "elem_name": "2.0.141 ВП Вспомогательное производство 141",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 149,
+    "elem_id": "149",
+    "elem_name": "2.0.142 ВП Вспомогательное производство 142",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 150,
+    "elem_id": "150",
+    "elem_name": "2.0.143 ВП Вспомогательное производство 143",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 151,
+    "elem_id": "151",
+    "elem_name": "2.0.144 ВП Вспомогательное производство 144",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 152,
+    "elem_id": "152",
+    "elem_name": "2.0.145 ВП Вспомогательное производство 145",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 153,
+    "elem_id": "153",
+    "elem_name": "2.0.146 ВП Вспомогательное производство 146",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 154,
+    "elem_id": "154",
+    "elem_name": "2.0.147 ВП Вспомогательное производство 147",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 155,
+    "elem_id": "155",
+    "elem_name": "2.0.148 ВП Вспомогательное производство 148",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 156,
+    "elem_id": "156",
+    "elem_name": "2.0.149 ВП Вспомогательное производство 149",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 157,
+    "elem_id": "157",
+    "elem_name": "2.0.150 ВП Вспомогательное производство 150",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 158,
+    "elem_id": "158",
+    "elem_name": "2.0.151 ВП Вспомогательное производство 151",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 159,
+    "elem_id": "159",
+    "elem_name": "2.0.152 ВП Вспомогательное производство 152",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 160,
+    "elem_id": "160",
+    "elem_name": "2.0.153 ВП Вспомогательное производство 153",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 161,
+    "elem_id": "161",
+    "elem_name": "2.0.154 ВП Вспомогательное производство 154",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 162,
+    "elem_id": "162",
+    "elem_name": "2.0.155 ВП Вспомогательное производство 155",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 163,
+    "elem_id": "163",
+    "elem_name": "2.0.156 ВП Вспомогательное производство 156",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 164,
+    "elem_id": "164",
+    "elem_name": "2.0.157 ВП Вспомогательное производство 157",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 165,
+    "elem_id": "165",
+    "elem_name": "2.0.158 ВП Вспомогательное производство 158",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 166,
+    "elem_id": "166",
+    "elem_name": "2.0.159 ВП Вспомогательное производство 159",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 167,
+    "elem_id": "167",
+    "elem_name": "2.0.160 ВП Вспомогательное производство 160",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 168,
+    "elem_id": "168",
+    "elem_name": "2.0.161 ВП Вспомогательное производство 161",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 169,
+    "elem_id": "169",
+    "elem_name": "2.0.162 ВП Вспомогательное производство 162",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 170,
+    "elem_id": "170",
+    "elem_name": "2.0.163 ВП Вспомогательное производство 163",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 171,
+    "elem_id": "171",
+    "elem_name": "2.0.164 ВП Вспомогательное производство 164",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 172,
+    "elem_id": "172",
+    "elem_name": "2.0.165 ВП Вспомогательное производство 165",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 173,
+    "elem_id": "173",
+    "elem_name": "2.0.166 ВП Вспомогательное производство 166",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 174,
+    "elem_id": "174",
+    "elem_name": "2.0.167 ВП Вспомогательное производство 167",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 175,
+    "elem_id": "175",
+    "elem_name": "2.0.168 ВП Вспомогательное производство 168",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 176,
+    "elem_id": "176",
+    "elem_name": "2.0.169 ВП Вспомогательное производство 169",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 177,
+    "elem_id": "177",
+    "elem_name": "2.0.170 ВП Вспомогательное производство 170",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 178,
+    "elem_id": "178",
+    "elem_name": "2.0.171 ВП Вспомогательное производство 171",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 179,
+    "elem_id": "179",
+    "elem_name": "2.0.172 ВП Вспомогательное производство 172",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 180,
+    "elem_id": "180",
+    "elem_name": "2.0.173 ВП Вспомогательное производство 173",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 181,
+    "elem_id": "181",
+    "elem_name": "2.0.174 ВП Вспомогательное производство 174",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 182,
+    "elem_id": "182",
+    "elem_name": "2.0.175 ВП Вспомогательное производство 175",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 183,
+    "elem_id": "183",
+    "elem_name": "2.0.176 ВП Вспомогательное производство 176",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 184,
+    "elem_id": "184",
+    "elem_name": "2.0.177 ВП Вспомогательное производство 177",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 185,
+    "elem_id": "185",
+    "elem_name": "2.0.178 ВП Вспомогательное производство 178",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 186,
+    "elem_id": "186",
+    "elem_name": "2.0.179 ВП Вспомогательное производство 179",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 187,
+    "elem_id": "187",
+    "elem_name": "2.0.180 ВП Вспомогательное производство 180",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 188,
+    "elem_id": "188",
+    "elem_name": "2.0.181 ВП Вспомогательное производство 181",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 189,
+    "elem_id": "189",
+    "elem_name": "2.0.182 ВП Вспомогательное производство 182",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 190,
+    "elem_id": "190",
+    "elem_name": "2.0.183 ВП Вспомогательное производство 183",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 191,
+    "elem_id": "191",
+    "elem_name": "2.0.184 ВП Вспомогательное производство 184",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 192,
+    "elem_id": "192",
+    "elem_name": "2.0.185 ВП Вспомогательное производство 185",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 193,
+    "elem_id": "193",
+    "elem_name": "2.0.186 ВП Вспомогательное производство 186",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 194,
+    "elem_id": "194",
+    "elem_name": "2.0.187 ВП Вспомогательное производство 187",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 195,
+    "elem_id": "195",
+    "elem_name": "2.0.188 ВП Вспомогательное производство 188",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 196,
+    "elem_id": "196",
+    "elem_name": "2.0.189 ВП Вспомогательное производство 189",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 197,
+    "elem_id": "197",
+    "elem_name": "2.0.190 ВП Вспомогательное производство 190",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 198,
+    "elem_id": "198",
+    "elem_name": "2.0.191 ВП Вспомогательное производство 191",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 199,
+    "elem_id": "199",
+    "elem_name": "2.0.192 ВП Вспомогательное производство 192",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 200,
+    "elem_id": "200",
+    "elem_name": "2.0.193 ВП Вспомогательное производство 193",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 201,
+    "elem_id": "201",
+    "elem_name": "2.0.194 ВП Вспомогательное производство 194",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 202,
+    "elem_id": "202",
+    "elem_name": "2.0.195 ВП Вспомогательное производство 195",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 203,
+    "elem_id": "203",
+    "elem_name": "2.0.196 ВП Вспомогательное производство 196",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 204,
+    "elem_id": "204",
+    "elem_name": "2.0.197 ВП Вспомогательное производство 197",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 205,
+    "elem_id": "205",
+    "elem_name": "2.0.198 ВП Вспомогательное производство 198",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 206,
+    "elem_id": "206",
+    "elem_name": "2.0.199 ВП Вспомогательное производство 199",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2572,
+    "elem_idx": 207,
+    "elem_id": "207",
+    "elem_name": "2.0.200 ВП Вспомогательное производство 200",
+    "elem_parent": 7,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2552,
+    "elem_idx": 0,
+    "elem_id": "1",
+    "elem_name": "Без учета периода",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2552,
+    "elem_idx": 1,
+    "elem_id": "2",
+    "elem_name": "P0",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2552,
+    "elem_idx": 2,
+    "elem_id": "3",
+    "elem_name": "Итого год",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 0,
+    "elem_id": "1",
+    "elem_name": "Без учета показателя",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 1,
+    "elem_id": "3",
+    "elem_name": "Сырье и материалы",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 2,
+    "elem_id": "4",
+    "elem_name": "Приобретение",
+    "elem_parent": 1,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 3,
+    "elem_id": "5",
+    "elem_name": "Расход",
+    "elem_parent": 1,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 4,
+    "elem_id": "2",
+    "elem_name": "Показатели по счетам",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 5,
+    "elem_id": "6",
+    "elem_name": "Основное производство",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 6,
+    "elem_id": "7",
+    "elem_name": "Начисление",
+    "elem_parent": 5,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 7,
+    "elem_id": "8",
+    "elem_name": "Списание на себ-сть реализации",
+    "elem_parent": 5,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 8,
+    "elem_id": "9",
+    "elem_name": "НЗП на конец",
+    "elem_parent": 5,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 9,
+    "elem_id": "10",
+    "elem_name": "Расчеты с поставщиками",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 10,
+    "elem_id": "11",
+    "elem_name": "Начисление",
+    "elem_parent": 9,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 11,
+    "elem_id": "12",
+    "elem_name": "Выплаты",
+    "elem_parent": 9,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 12,
+    "elem_id": "13",
+    "elem_name": "Выплаты ОХР",
+    "elem_parent": 9,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 13,
+    "elem_id": "14",
+    "elem_name": "Расчеты с покупателями и заказчиками",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 14,
+    "elem_id": "15",
+    "elem_name": "Расчеты с покупателями и заказчиками (основная деятельность)",
+    "elem_parent": 13,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 15,
+    "elem_id": "16",
+    "elem_name": "Выручка",
+    "elem_parent": 14,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 16,
+    "elem_id": "17",
+    "elem_name": "Количество",
+    "elem_parent": 14,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 17,
+    "elem_id": "18",
+    "elem_name": "Цена за ед.",
+    "elem_parent": 14,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 18,
+    "elem_id": "19",
+    "elem_name": "Ставка НДС",
+    "elem_parent": 14,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 19,
+    "elem_id": "20",
+    "elem_name": "Поступление авансов",
+    "elem_parent": 14,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 20,
+    "elem_id": "21",
+    "elem_name": "Окончательный расчет",
+    "elem_parent": 14,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 21,
+    "elem_id": "22",
+    "elem_name": "Начислено с НДС",
+    "elem_parent": 14,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 22,
+    "elem_id": "23",
+    "elem_name": "Прочее изменение задолж-ти (+/-)",
+    "elem_parent": 14,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 23,
+    "elem_id": "24",
+    "elem_name": "ДЗ/Авансы получ на конец",
+    "elem_parent": 14,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 24,
+    "elem_id": "25",
+    "elem_name": "Расчеты по налогам, сборам и соц. страхованию",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 25,
+    "elem_id": "26",
+    "elem_name": "Расчеты по налогам, сборам, кроме НДС",
+    "elem_parent": 24,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 26,
+    "elem_id": "27",
+    "elem_name": "Начисление",
+    "elem_parent": 25,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 27,
+    "elem_id": "28",
+    "elem_name": "Оплата",
+    "elem_parent": 25,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 28,
+    "elem_id": "29",
+    "elem_name": "Распределение ОПР и ОХР",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 29,
+    "elem_id": "30",
+    "elem_name": "ФОТ основных рабочих",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 30,
+    "elem_id": "31",
+    "elem_name": "Шаг1. % накл от Базы",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 31,
+    "elem_id": "32",
+    "elem_name": "Шаг1. Распределено по % накл",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 32,
+    "elem_id": "33",
+    "elem_name": "Шаг2. Корректировка",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 33,
+    "elem_id": "34",
+    "elem_name": "Шаг3. Распр по Базе",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 34,
+    "elem_id": "35",
+    "elem_name": "Шаг1-3 Итого",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 35,
+    "elem_id": "36",
+    "elem_name": "Шаг3. Корректировка",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 36,
+    "elem_id": "37",
+    "elem_name": "Шаг4. Итого",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 37,
+    "elem_id": "38",
+    "elem_name": "Шаг 4. Итого в %% от накл",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 38,
+    "elem_id": "39",
+    "elem_name": "Другая база распределения",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 39,
+    "elem_id": "40",
+    "elem_name": "Итого распределено",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 40,
+    "elem_id": "41",
+    "elem_name": "База распределения ОХР",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 41,
+    "elem_id": "42",
+    "elem_name": "Списание на 20 счет",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 42,
+    "elem_id": "43",
+    "elem_name": "Списание на 90 счет",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2565,
+    "elem_idx": 43,
+    "elem_id": "44",
+    "elem_name": "Контроль списания ОХР",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 0,
+    "elem_id": "1",
+    "elem_name": "Вспомогательные статьи",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 1,
+    "elem_id": "2",
+    "elem_name": "Средний курс за период",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 2,
+    "elem_id": "3",
+    "elem_name": "Ставки",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 3,
+    "elem_id": "4",
+    "elem_name": "Страх взносы по фондам, %",
+    "elem_parent": 2,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 4,
+    "elem_id": "5",
+    "elem_name": "Ставка страх. взносов в ПФ РФ, %",
+    "elem_parent": 3,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 5,
+    "elem_id": "6",
+    "elem_name": "Ставка страх. взносов в ФСС на случай вр. нетруд. и в связи с матер-м, %",
+    "elem_parent": 3,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 6,
+    "elem_id": "7",
+    "elem_name": "Ставка страх. взносов в ФСС по травматизму, %",
+    "elem_parent": 3,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 7,
+    "elem_id": "8",
+    "elem_name": "Ставка страх. взносов в ФФМОС, %",
+    "elem_parent": 3,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 8,
+    "elem_id": "9",
+    "elem_name": "Статьи затрат",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 9,
+    "elem_id": "10",
+    "elem_name": "2001 Затраты осн. произв-ва, кроме спецрасходов",
+    "elem_parent": 8,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 10,
+    "elem_id": "11",
+    "elem_name": "200101 Производственные расходы",
+    "elem_parent": 9,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 11,
+    "elem_id": "12",
+    "elem_name": "26 Общехозяйственные расходы",
+    "elem_parent": 8,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 12,
+    "elem_id": "13",
+    "elem_name": "2601 Содержание аппарата управления",
+    "elem_parent": 11,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 13,
+    "elem_id": "14",
+    "elem_name": "2620 Обучение",
+    "elem_parent": 11,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 14,
+    "elem_id": "15",
+    "elem_name": "2645 Прочие общехозяйственные расходы",
+    "elem_parent": 11,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 15,
+    "elem_id": "16",
+    "elem_name": "Списание общехоз затрат",
+    "elem_parent": 11,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 16,
+    "elem_id": "17",
+    "elem_name": "60 Закупки",
+    "elem_parent": 8,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 17,
+    "elem_id": "18",
+    "elem_name": "6002 Закупки по операцион деят-ти",
+    "elem_parent": 16,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 18,
+    "elem_id": "19",
+    "elem_name": "600201 Закупки под прямые производственные нужды",
+    "elem_parent": 17,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 19,
+    "elem_id": "20",
+    "elem_name": "6004 Закупки многоцелевых и косвенных СиМ",
+    "elem_parent": 16,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 20,
+    "elem_id": "21",
+    "elem_name": "600401 Закупки на косвенные затраты по опер деят-ти",
+    "elem_parent": 19,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 21,
+    "elem_id": "22",
+    "elem_name": "Статьи выплат",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 22,
+    "elem_id": "23",
+    "elem_name": "6020 Выплаты за услуги, относ. к осн произв-ву (ОП)",
+    "elem_parent": 21,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 23,
+    "elem_id": "24",
+    "elem_name": "602001 Выплаты за работы и услугам произв хар-ра ОП",
+    "elem_parent": 22,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 24,
+    "elem_id": "25",
+    "elem_name": "6024 Выплаты за услуги управленч хар-ра",
+    "elem_parent": 21,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 25,
+    "elem_id": "26",
+    "elem_name": "602422 Выплаты за обучение",
+    "elem_parent": 24,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 26,
+    "elem_id": "27",
+    "elem_name": "602452 Прочие выплаты за услуги управленч хар-ра",
+    "elem_parent": 24,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 27,
+    "elem_id": "28",
+    "elem_name": "Выплаты по закупкам",
+    "elem_parent": 21,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 28,
+    "elem_id": "29",
+    "elem_name": "600201 Закупки под прямые производственные нужды",
+    "elem_parent": 21,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 29,
+    "elem_id": "30",
+    "elem_name": "6004 Закупки многоцелевых и косвенных СиМ",
+    "elem_parent": 21,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 30,
+    "elem_id": "31",
+    "elem_name": "600401 Закупки на косвенные затраты по опер деят-ти",
+    "elem_parent": 29,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 31,
+    "elem_id": "32",
+    "elem_name": "Бюджет доходов и расходов",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 32,
+    "elem_id": "33",
+    "elem_name": "01 Выручка от реализации",
+    "elem_parent": 31,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 33,
+    "elem_id": "34",
+    "elem_name": "02 Прямые затраты",
+    "elem_parent": 31,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 34,
+    "elem_id": "35",
+    "elem_name": "0201 Материальные затраты",
+    "elem_parent": 33,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 35,
+    "elem_id": "36",
+    "elem_name": "020101 Сырье и осн материaлы",
+    "elem_parent": 34,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 36,
+    "elem_id": "37",
+    "elem_name": "020104 ПKИ",
+    "elem_parent": 34,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 37,
+    "elem_id": "38",
+    "elem_name": "0202 Затраты на оплату труда, включая отчисления",
+    "elem_parent": 33,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 38,
+    "elem_id": "39",
+    "elem_name": "020201 Затраты на оплату трудa",
+    "elem_parent": 37,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 39,
+    "elem_id": "40",
+    "elem_name": "020202 Отчисления на соц нyжды",
+    "elem_parent": 37,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 40,
+    "elem_id": "41",
+    "elem_name": "0206 Прочие производственные затрaты",
+    "elem_parent": 33,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 41,
+    "elem_id": "42",
+    "elem_name": "03 Маржинальный доход 1",
+    "elem_parent": 31,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 42,
+    "elem_id": "43",
+    "elem_name": "04 Рентабельность по маржинальному доходу 1",
+    "elem_parent": 31,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 43,
+    "elem_id": "44",
+    "elem_name": "13 Распределенные косвенные расходы",
+    "elem_parent": 31,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 44,
+    "elem_id": "45",
+    "elem_name": "1302 Общехозяйственные расходы (распр)",
+    "elem_parent": 43,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 45,
+    "elem_id": "46",
+    "elem_name": "14 Маржинальный доход 3",
+    "elem_parent": 31,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 46,
+    "elem_id": "47",
+    "elem_name": "15 Рентабельность по маржинальному доходу 3",
+    "elem_parent": 31,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 47,
+    "elem_id": "48",
+    "elem_name": "БДДС",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 48,
+    "elem_id": "49",
+    "elem_name": "01 Поступления от операционной деят-ти",
+    "elem_parent": 47,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 49,
+    "elem_id": "50",
+    "elem_name": "0101 Поступления по государственным контрактам",
+    "elem_parent": 48,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 50,
+    "elem_id": "51",
+    "elem_name": "0102 Поступления по коммерческим контрактам",
+    "elem_parent": 48,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 51,
+    "elem_id": "52",
+    "elem_name": "02 Выплаты по операционной деят-ти",
+    "elem_parent": 47,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 52,
+    "elem_id": "53",
+    "elem_name": "0201 Выплаты за сырье и материалы",
+    "elem_parent": 51,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 53,
+    "elem_id": "54",
+    "elem_name": "020101 Выплаты за сырье и мат-лы по тек деят-ти",
+    "elem_parent": 52,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 54,
+    "elem_id": "55",
+    "elem_name": "020102 Выплаты за ПКИ",
+    "elem_parent": 52,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 55,
+    "elem_id": "56",
+    "elem_name": "0203 Выплаты за работы и услуги стор орг-ций",
+    "elem_parent": 51,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 56,
+    "elem_id": "57",
+    "elem_name": "020301 Выплаты за работы и услуги производственного хар-ра ОП",
+    "elem_parent": 55,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 57,
+    "elem_id": "58",
+    "elem_name": "020302 Выплаты за услуги общехоз хар-ра",
+    "elem_parent": 55,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2568,
+    "elem_idx": 58,
+    "elem_id": "59",
+    "elem_name": "03 Денежный поток от операционной деят-ти",
+    "elem_parent": 47,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2555,
+    "elem_idx": 0,
+    "elem_id": "1",
+    "elem_name": "Без учета сценария",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2555,
+    "elem_idx": 1,
+    "elem_id": "2",
+    "elem_name": "Бюджет",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 0,
+    "elem_id": "1",
+    "elem_name": "Итого по ЦФО",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 1,
+    "elem_id": "2",
+    "elem_name": "Без учета ЦФО",
+    "elem_parent": 0,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 2,
+    "elem_id": "3",
+    "elem_name": "Всего по ЦФО",
+    "elem_parent": 0,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 3,
+    "elem_id": "4",
+    "elem_name": "Организация 1",
+    "elem_parent": 2,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 4,
+    "elem_id": "5",
+    "elem_name": "Департамент информационных технологий",
+    "elem_parent": 3,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 5,
+    "elem_id": "6",
+    "elem_name": "Департамент управления персоналом",
+    "elem_parent": 3,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 6,
+    "elem_id": "7",
+    "elem_name": "Тематическая дирекция 1.1",
+    "elem_parent": 3,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 7,
+    "elem_id": "8",
+    "elem_name": "Вспомогательные ЦФО",
+    "elem_parent": 2,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 8,
+    "elem_id": "9",
+    "elem_name": "Вспомогательный ЦФО 1",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 9,
+    "elem_id": "10",
+    "elem_name": "Вспомогательный ЦФО 2",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 10,
+    "elem_id": "11",
+    "elem_name": "Вспомогательный ЦФО 3",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 11,
+    "elem_id": "12",
+    "elem_name": "Вспомогательный ЦФО 4",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 12,
+    "elem_id": "13",
+    "elem_name": "Вспомогательный ЦФО 5",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 13,
+    "elem_id": "14",
+    "elem_name": "Вспомогательный ЦФО 6",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 14,
+    "elem_id": "15",
+    "elem_name": "Вспомогательный ЦФО 7",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 15,
+    "elem_id": "16",
+    "elem_name": "Вспомогательный ЦФО 8",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 16,
+    "elem_id": "17",
+    "elem_name": "Вспомогательный ЦФО 9",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 17,
+    "elem_id": "18",
+    "elem_name": "Вспомогательный ЦФО 10",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 18,
+    "elem_id": "19",
+    "elem_name": "Вспомогательный ЦФО 11",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 19,
+    "elem_id": "20",
+    "elem_name": "Вспомогательный ЦФО 12",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 20,
+    "elem_id": "21",
+    "elem_name": "Вспомогательный ЦФО 13",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 21,
+    "elem_id": "22",
+    "elem_name": "Вспомогательный ЦФО 14",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 22,
+    "elem_id": "23",
+    "elem_name": "Вспомогательный ЦФО 15",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 23,
+    "elem_id": "24",
+    "elem_name": "Вспомогательный ЦФО 16",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 24,
+    "elem_id": "25",
+    "elem_name": "Вспомогательный ЦФО 17",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 25,
+    "elem_id": "26",
+    "elem_name": "Вспомогательный ЦФО 18",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 26,
+    "elem_id": "27",
+    "elem_name": "Вспомогательный ЦФО 19",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 27,
+    "elem_id": "28",
+    "elem_name": "Вспомогательный ЦФО 20",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 28,
+    "elem_id": "29",
+    "elem_name": "Вспомогательный ЦФО 21",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 29,
+    "elem_id": "30",
+    "elem_name": "Вспомогательный ЦФО 22",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 30,
+    "elem_id": "31",
+    "elem_name": "Вспомогательный ЦФО 23",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 31,
+    "elem_id": "32",
+    "elem_name": "Вспомогательный ЦФО 24",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 32,
+    "elem_id": "33",
+    "elem_name": "Вспомогательный ЦФО 25",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 33,
+    "elem_id": "34",
+    "elem_name": "Вспомогательный ЦФО 26",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 34,
+    "elem_id": "35",
+    "elem_name": "Вспомогательный ЦФО 27",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 35,
+    "elem_id": "36",
+    "elem_name": "Вспомогательный ЦФО 28",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 36,
+    "elem_id": "37",
+    "elem_name": "Вспомогательный ЦФО 29",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 37,
+    "elem_id": "38",
+    "elem_name": "Вспомогательный ЦФО 30",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 38,
+    "elem_id": "39",
+    "elem_name": "Вспомогательный ЦФО 31",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 39,
+    "elem_id": "40",
+    "elem_name": "Вспомогательный ЦФО 32",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 40,
+    "elem_id": "41",
+    "elem_name": "Вспомогательный ЦФО 33",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 41,
+    "elem_id": "42",
+    "elem_name": "Вспомогательный ЦФО 34",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 42,
+    "elem_id": "43",
+    "elem_name": "Вспомогательный ЦФО 35",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 43,
+    "elem_id": "44",
+    "elem_name": "Вспомогательный ЦФО 36",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 44,
+    "elem_id": "45",
+    "elem_name": "Вспомогательный ЦФО 37",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 45,
+    "elem_id": "46",
+    "elem_name": "Вспомогательный ЦФО 38",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 46,
+    "elem_id": "47",
+    "elem_name": "Вспомогательный ЦФО 39",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 47,
+    "elem_id": "48",
+    "elem_name": "Вспомогательный ЦФО 40",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 48,
+    "elem_id": "49",
+    "elem_name": "Вспомогательный ЦФО 41",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 49,
+    "elem_id": "50",
+    "elem_name": "Вспомогательный ЦФО 42",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 50,
+    "elem_id": "51",
+    "elem_name": "Вспомогательный ЦФО 43",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 51,
+    "elem_id": "52",
+    "elem_name": "Вспомогательный ЦФО 44",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 52,
+    "elem_id": "53",
+    "elem_name": "Вспомогательный ЦФО 45",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 53,
+    "elem_id": "54",
+    "elem_name": "Вспомогательный ЦФО 46",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 54,
+    "elem_id": "55",
+    "elem_name": "Вспомогательный ЦФО 47",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 55,
+    "elem_id": "56",
+    "elem_name": "Вспомогательный ЦФО 48",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 56,
+    "elem_id": "57",
+    "elem_name": "Вспомогательный ЦФО 49",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 57,
+    "elem_id": "58",
+    "elem_name": "Вспомогательный ЦФО 50",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 58,
+    "elem_id": "59",
+    "elem_name": "Вспомогательный ЦФО 51",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 59,
+    "elem_id": "60",
+    "elem_name": "Вспомогательный ЦФО 52",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 60,
+    "elem_id": "61",
+    "elem_name": "Вспомогательный ЦФО 53",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 61,
+    "elem_id": "62",
+    "elem_name": "Вспомогательный ЦФО 54",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 62,
+    "elem_id": "63",
+    "elem_name": "Вспомогательный ЦФО 55",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 63,
+    "elem_id": "64",
+    "elem_name": "Вспомогательный ЦФО 56",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 64,
+    "elem_id": "65",
+    "elem_name": "Вспомогательный ЦФО 57",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 65,
+    "elem_id": "66",
+    "elem_name": "Вспомогательный ЦФО 58",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 66,
+    "elem_id": "67",
+    "elem_name": "Вспомогательный ЦФО 59",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 67,
+    "elem_id": "68",
+    "elem_name": "Вспомогательный ЦФО 60",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 68,
+    "elem_id": "69",
+    "elem_name": "Вспомогательный ЦФО 61",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 69,
+    "elem_id": "70",
+    "elem_name": "Вспомогательный ЦФО 62",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 70,
+    "elem_id": "71",
+    "elem_name": "Вспомогательный ЦФО 63",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 71,
+    "elem_id": "72",
+    "elem_name": "Вспомогательный ЦФО 64",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 72,
+    "elem_id": "73",
+    "elem_name": "Вспомогательный ЦФО 65",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 73,
+    "elem_id": "74",
+    "elem_name": "Вспомогательный ЦФО 66",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 74,
+    "elem_id": "75",
+    "elem_name": "Вспомогательный ЦФО 67",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 75,
+    "elem_id": "76",
+    "elem_name": "Вспомогательный ЦФО 68",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 76,
+    "elem_id": "77",
+    "elem_name": "Вспомогательный ЦФО 69",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 77,
+    "elem_id": "78",
+    "elem_name": "Вспомогательный ЦФО 70",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 78,
+    "elem_id": "79",
+    "elem_name": "Вспомогательный ЦФО 71",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 79,
+    "elem_id": "80",
+    "elem_name": "Вспомогательный ЦФО 72",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 80,
+    "elem_id": "81",
+    "elem_name": "Вспомогательный ЦФО 73",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 81,
+    "elem_id": "82",
+    "elem_name": "Вспомогательный ЦФО 74",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 82,
+    "elem_id": "83",
+    "elem_name": "Вспомогательный ЦФО 75",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 83,
+    "elem_id": "84",
+    "elem_name": "Вспомогательный ЦФО 76",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 84,
+    "elem_id": "85",
+    "elem_name": "Вспомогательный ЦФО 77",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 85,
+    "elem_id": "86",
+    "elem_name": "Вспомогательный ЦФО 78",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 86,
+    "elem_id": "87",
+    "elem_name": "Вспомогательный ЦФО 79",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 87,
+    "elem_id": "88",
+    "elem_name": "Вспомогательный ЦФО 80",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 88,
+    "elem_id": "89",
+    "elem_name": "Вспомогательный ЦФО 81",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 89,
+    "elem_id": "90",
+    "elem_name": "Вспомогательный ЦФО 82",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 90,
+    "elem_id": "91",
+    "elem_name": "Вспомогательный ЦФО 83",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 91,
+    "elem_id": "92",
+    "elem_name": "Вспомогательный ЦФО 84",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 92,
+    "elem_id": "93",
+    "elem_name": "Вспомогательный ЦФО 85",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 93,
+    "elem_id": "94",
+    "elem_name": "Вспомогательный ЦФО 86",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 94,
+    "elem_id": "95",
+    "elem_name": "Вспомогательный ЦФО 87",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 95,
+    "elem_id": "96",
+    "elem_name": "Вспомогательный ЦФО 88",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 96,
+    "elem_id": "97",
+    "elem_name": "Вспомогательный ЦФО 89",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 97,
+    "elem_id": "98",
+    "elem_name": "Вспомогательный ЦФО 90",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 98,
+    "elem_id": "99",
+    "elem_name": "Вспомогательный ЦФО 91",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 99,
+    "elem_id": "100",
+    "elem_name": "Вспомогательный ЦФО 92",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 100,
+    "elem_id": "101",
+    "elem_name": "Вспомогательный ЦФО 93",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 101,
+    "elem_id": "102",
+    "elem_name": "Вспомогательный ЦФО 94",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 102,
+    "elem_id": "103",
+    "elem_name": "Вспомогательный ЦФО 95",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 103,
+    "elem_id": "104",
+    "elem_name": "Вспомогательный ЦФО 96",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 104,
+    "elem_id": "105",
+    "elem_name": "Вспомогательный ЦФО 97",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 105,
+    "elem_id": "106",
+    "elem_name": "Вспомогательный ЦФО 98",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 106,
+    "elem_id": "107",
+    "elem_name": "Вспомогательный ЦФО 99",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 107,
+    "elem_id": "108",
+    "elem_name": "Вспомогательный ЦФО 100",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 108,
+    "elem_id": "109",
+    "elem_name": "Вспомогательный ЦФО 101",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 109,
+    "elem_id": "110",
+    "elem_name": "Вспомогательный ЦФО 102",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 110,
+    "elem_id": "111",
+    "elem_name": "Вспомогательный ЦФО 103",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 111,
+    "elem_id": "112",
+    "elem_name": "Вспомогательный ЦФО 104",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 112,
+    "elem_id": "113",
+    "elem_name": "Вспомогательный ЦФО 105",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 113,
+    "elem_id": "114",
+    "elem_name": "Вспомогательный ЦФО 106",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 114,
+    "elem_id": "115",
+    "elem_name": "Вспомогательный ЦФО 107",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 115,
+    "elem_id": "116",
+    "elem_name": "Вспомогательный ЦФО 108",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 116,
+    "elem_id": "117",
+    "elem_name": "Вспомогательный ЦФО 109",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 117,
+    "elem_id": "118",
+    "elem_name": "Вспомогательный ЦФО 110",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 118,
+    "elem_id": "119",
+    "elem_name": "Вспомогательный ЦФО 111",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 119,
+    "elem_id": "120",
+    "elem_name": "Вспомогательный ЦФО 112",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 120,
+    "elem_id": "121",
+    "elem_name": "Вспомогательный ЦФО 113",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 121,
+    "elem_id": "122",
+    "elem_name": "Вспомогательный ЦФО 114",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 122,
+    "elem_id": "123",
+    "elem_name": "Вспомогательный ЦФО 115",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 123,
+    "elem_id": "124",
+    "elem_name": "Вспомогательный ЦФО 116",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 124,
+    "elem_id": "125",
+    "elem_name": "Вспомогательный ЦФО 117",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 125,
+    "elem_id": "126",
+    "elem_name": "Вспомогательный ЦФО 118",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 126,
+    "elem_id": "127",
+    "elem_name": "Вспомогательный ЦФО 119",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 127,
+    "elem_id": "128",
+    "elem_name": "Вспомогательный ЦФО 120",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 128,
+    "elem_id": "129",
+    "elem_name": "Вспомогательный ЦФО 121",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 129,
+    "elem_id": "130",
+    "elem_name": "Вспомогательный ЦФО 122",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 130,
+    "elem_id": "131",
+    "elem_name": "Вспомогательный ЦФО 123",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 131,
+    "elem_id": "132",
+    "elem_name": "Вспомогательный ЦФО 124",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 132,
+    "elem_id": "133",
+    "elem_name": "Вспомогательный ЦФО 125",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 133,
+    "elem_id": "134",
+    "elem_name": "Вспомогательный ЦФО 126",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 134,
+    "elem_id": "135",
+    "elem_name": "Вспомогательный ЦФО 127",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 135,
+    "elem_id": "136",
+    "elem_name": "Вспомогательный ЦФО 128",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 136,
+    "elem_id": "137",
+    "elem_name": "Вспомогательный ЦФО 129",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 137,
+    "elem_id": "138",
+    "elem_name": "Вспомогательный ЦФО 130",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 138,
+    "elem_id": "139",
+    "elem_name": "Вспомогательный ЦФО 131",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 139,
+    "elem_id": "140",
+    "elem_name": "Вспомогательный ЦФО 132",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 140,
+    "elem_id": "141",
+    "elem_name": "Вспомогательный ЦФО 133",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 141,
+    "elem_id": "142",
+    "elem_name": "Вспомогательный ЦФО 134",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 142,
+    "elem_id": "143",
+    "elem_name": "Вспомогательный ЦФО 135",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 143,
+    "elem_id": "144",
+    "elem_name": "Вспомогательный ЦФО 136",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 144,
+    "elem_id": "145",
+    "elem_name": "Вспомогательный ЦФО 137",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 145,
+    "elem_id": "146",
+    "elem_name": "Вспомогательный ЦФО 138",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 146,
+    "elem_id": "147",
+    "elem_name": "Вспомогательный ЦФО 139",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 147,
+    "elem_id": "148",
+    "elem_name": "Вспомогательный ЦФО 140",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 148,
+    "elem_id": "149",
+    "elem_name": "Вспомогательный ЦФО 141",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 149,
+    "elem_id": "150",
+    "elem_name": "Вспомогательный ЦФО 142",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 150,
+    "elem_id": "151",
+    "elem_name": "Вспомогательный ЦФО 143",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 151,
+    "elem_id": "152",
+    "elem_name": "Вспомогательный ЦФО 144",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 152,
+    "elem_id": "153",
+    "elem_name": "Вспомогательный ЦФО 145",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 153,
+    "elem_id": "154",
+    "elem_name": "Вспомогательный ЦФО 146",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 154,
+    "elem_id": "155",
+    "elem_name": "Вспомогательный ЦФО 147",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 155,
+    "elem_id": "156",
+    "elem_name": "Вспомогательный ЦФО 148",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 156,
+    "elem_id": "157",
+    "elem_name": "Вспомогательный ЦФО 149",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 157,
+    "elem_id": "158",
+    "elem_name": "Вспомогательный ЦФО 150",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 158,
+    "elem_id": "159",
+    "elem_name": "Вспомогательный ЦФО 151",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 159,
+    "elem_id": "160",
+    "elem_name": "Вспомогательный ЦФО 152",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 160,
+    "elem_id": "161",
+    "elem_name": "Вспомогательный ЦФО 153",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 161,
+    "elem_id": "162",
+    "elem_name": "Вспомогательный ЦФО 154",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 162,
+    "elem_id": "163",
+    "elem_name": "Вспомогательный ЦФО 155",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 163,
+    "elem_id": "164",
+    "elem_name": "Вспомогательный ЦФО 156",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 164,
+    "elem_id": "165",
+    "elem_name": "Вспомогательный ЦФО 157",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 165,
+    "elem_id": "166",
+    "elem_name": "Вспомогательный ЦФО 158",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 166,
+    "elem_id": "167",
+    "elem_name": "Вспомогательный ЦФО 159",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 167,
+    "elem_id": "168",
+    "elem_name": "Вспомогательный ЦФО 160",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 168,
+    "elem_id": "169",
+    "elem_name": "Вспомогательный ЦФО 161",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 169,
+    "elem_id": "170",
+    "elem_name": "Вспомогательный ЦФО 162",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 170,
+    "elem_id": "171",
+    "elem_name": "Вспомогательный ЦФО 163",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 171,
+    "elem_id": "172",
+    "elem_name": "Вспомогательный ЦФО 164",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 172,
+    "elem_id": "173",
+    "elem_name": "Вспомогательный ЦФО 165",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 173,
+    "elem_id": "174",
+    "elem_name": "Вспомогательный ЦФО 166",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 174,
+    "elem_id": "175",
+    "elem_name": "Вспомогательный ЦФО 167",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 175,
+    "elem_id": "176",
+    "elem_name": "Вспомогательный ЦФО 168",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 176,
+    "elem_id": "177",
+    "elem_name": "Вспомогательный ЦФО 169",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 177,
+    "elem_id": "178",
+    "elem_name": "Вспомогательный ЦФО 170",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 178,
+    "elem_id": "179",
+    "elem_name": "Вспомогательный ЦФО 171",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 179,
+    "elem_id": "180",
+    "elem_name": "Вспомогательный ЦФО 172",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 180,
+    "elem_id": "181",
+    "elem_name": "Вспомогательный ЦФО 173",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 181,
+    "elem_id": "182",
+    "elem_name": "Вспомогательный ЦФО 174",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 182,
+    "elem_id": "183",
+    "elem_name": "Вспомогательный ЦФО 175",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 183,
+    "elem_id": "184",
+    "elem_name": "Вспомогательный ЦФО 176",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 184,
+    "elem_id": "185",
+    "elem_name": "Вспомогательный ЦФО 177",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 185,
+    "elem_id": "186",
+    "elem_name": "Вспомогательный ЦФО 178",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 186,
+    "elem_id": "187",
+    "elem_name": "Вспомогательный ЦФО 179",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 187,
+    "elem_id": "188",
+    "elem_name": "Вспомогательный ЦФО 180",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 188,
+    "elem_id": "189",
+    "elem_name": "Вспомогательный ЦФО 181",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 189,
+    "elem_id": "190",
+    "elem_name": "Вспомогательный ЦФО 182",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 190,
+    "elem_id": "191",
+    "elem_name": "Вспомогательный ЦФО 183",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 191,
+    "elem_id": "192",
+    "elem_name": "Вспомогательный ЦФО 184",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 192,
+    "elem_id": "193",
+    "elem_name": "Вспомогательный ЦФО 185",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 193,
+    "elem_id": "194",
+    "elem_name": "Вспомогательный ЦФО 186",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 194,
+    "elem_id": "195",
+    "elem_name": "Вспомогательный ЦФО 187",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 195,
+    "elem_id": "196",
+    "elem_name": "Вспомогательный ЦФО 188",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 196,
+    "elem_id": "197",
+    "elem_name": "Вспомогательный ЦФО 189",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 197,
+    "elem_id": "198",
+    "elem_name": "Вспомогательный ЦФО 190",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 198,
+    "elem_id": "199",
+    "elem_name": "Вспомогательный ЦФО 191",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 199,
+    "elem_id": "200",
+    "elem_name": "Вспомогательный ЦФО 192",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 200,
+    "elem_id": "201",
+    "elem_name": "Вспомогательный ЦФО 193",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 201,
+    "elem_id": "202",
+    "elem_name": "Вспомогательный ЦФО 194",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 202,
+    "elem_id": "203",
+    "elem_name": "Вспомогательный ЦФО 195",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 203,
+    "elem_id": "204",
+    "elem_name": "Вспомогательный ЦФО 196",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 204,
+    "elem_id": "205",
+    "elem_name": "Вспомогательный ЦФО 197",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 205,
+    "elem_id": "206",
+    "elem_name": "Вспомогательный ЦФО 198",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 206,
+    "elem_id": "207",
+    "elem_name": "Вспомогательный ЦФО 199",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2570,
+    "elem_idx": 207,
+    "elem_id": "208",
+    "elem_name": "Вспомогательный ЦФО 200",
+    "elem_parent": 7,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2559,
+    "elem_idx": 0,
+    "elem_id": "1",
+    "elem_name": "Итого по элементам затрат",
+    "elem_parent": -1,
+    "elem_level_key": 0
+  },
+  {
+    "dict_key": 2559,
+    "elem_idx": 1,
+    "elem_id": "2",
+    "elem_name": "Без учета элементов затрат",
+    "elem_parent": 0,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2559,
+    "elem_idx": 2,
+    "elem_id": "3",
+    "elem_name": "Всего по затратам",
+    "elem_parent": 0,
+    "elem_level_key": 1
+  },
+  {
+    "dict_key": 2559,
+    "elem_idx": 3,
+    "elem_id": "4",
+    "elem_name": "Затраты на материалы",
+    "elem_parent": 2,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2559,
+    "elem_idx": 4,
+    "elem_id": "5",
+    "elem_name": "Сырье и осн материалы",
+    "elem_parent": 3,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2559,
+    "elem_idx": 5,
+    "elem_id": "6",
+    "elem_name": "ПКИ",
+    "elem_parent": 3,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2559,
+    "elem_idx": 6,
+    "elem_id": "7",
+    "elem_name": "Затраты на оплату труда",
+    "elem_parent": 2,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2559,
+    "elem_idx": 7,
+    "elem_id": "8",
+    "elem_name": "ФОТ",
+    "elem_parent": 6,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2559,
+    "elem_idx": 8,
+    "elem_id": "9",
+    "elem_name": "Страховые взносы",
+    "elem_parent": 6,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2559,
+    "elem_idx": 9,
+    "elem_id": "10",
+    "elem_name": "Общехозяйственные затраты",
+    "elem_parent": 2,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2559,
+    "elem_idx": 10,
+    "elem_id": "11",
+    "elem_name": "Прочие производственные затраты",
+    "elem_parent": 2,
+    "elem_level_key": 2
+  },
+  {
+    "dict_key": 2559,
+    "elem_idx": 11,
+    "elem_id": "12",
+    "elem_name": "Услуги стор орг-ций",
+    "elem_parent": 10,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2559,
+    "elem_idx": 12,
+    "elem_id": "13",
+    "elem_name": "Прочие",
+    "elem_parent": 10,
+    "elem_level_key": 3
+  },
+  {
+    "dict_key": 2559,
+    "elem_idx": 13,
+    "elem_id": "14",
+    "elem_name": "Закупки",
+    "elem_parent": 2,
+    "elem_level_key": 2
+  }
+]

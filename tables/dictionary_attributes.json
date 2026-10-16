@@ -1,0 +1,422 @@
+[
+  {
+    "dict_key": 2225,
+    "attr_idx": 0,
+    "attr_id": "KEY",
+    "attr_key": 1,
+    "attr_name": "Ключ"
+  },
+  {
+    "dict_key": 2225,
+    "attr_idx": 1,
+    "attr_id": "NAME",
+    "attr_key": 2,
+    "attr_name": "Наименование"
+  },
+  {
+    "dict_key": 2225,
+    "attr_idx": 2,
+    "attr_id": "ORD",
+    "attr_key": 4,
+    "attr_name": "Порядок"
+  },
+  {
+    "dict_key": 2225,
+    "attr_idx": 3,
+    "attr_id": "DB_DATA_TYPE",
+    "attr_key": 5,
+    "attr_name": "DbDataType"
+  },
+  {
+    "dict_key": 2225,
+    "attr_idx": 4,
+    "attr_id": "SYSTEM_ID",
+    "attr_key": 6,
+    "attr_name": "SYSTEM_ID"
+  },
+  {
+    "dict_key": 2225,
+    "attr_idx": 5,
+    "attr_id": "IDENT",
+    "attr_key": 7,
+    "attr_name": "Идетификатор факта"
+  },
+  {
+    "dict_key": 2225,
+    "attr_idx": 6,
+    "attr_id": "NAME_EN_US",
+    "attr_key": 8,
+    "attr_name": "NAME_en_us"
+  },
+  {
+    "dict_key": 2225,
+    "attr_idx": 7,
+    "attr_id": "SYSTEM_ID_EN_US",
+    "attr_key": 9,
+    "attr_name": "SYSTEM_ID_en_us"
+  },
+  {
+    "dict_key": 2225,
+    "attr_idx": 8,
+    "attr_id": "IDENT_EN_US",
+    "attr_key": 10,
+    "attr_name": "IDENT_en_us"
+  },
+  {
+    "dict_key": 2557,
+    "attr_idx": 0,
+    "attr_id": "KEY",
+    "attr_key": 1,
+    "attr_name": "Ключ"
+  },
+  {
+    "dict_key": 2557,
+    "attr_idx": 1,
+    "attr_id": "NAME",
+    "attr_key": 2,
+    "attr_name": "Наименование"
+  },
+  {
+    "dict_key": 2557,
+    "attr_idx": 2,
+    "attr_id": "PARENT_KEY",
+    "attr_key": 3,
+    "attr_name": "Владелец"
+  },
+  {
+    "dict_key": 2557,
+    "attr_idx": 3,
+    "attr_id": "ORD",
+    "attr_key": 4,
+    "attr_name": "Порядок"
+  },
+  {
+    "dict_key": 2554,
+    "attr_idx": 0,
+    "attr_id": "BLOCK_TYPE",
+    "attr_key": 1,
+    "attr_name": "Тип блока календаря"
+  },
+  {
+    "dict_key": 2554,
+    "attr_idx": 1,
+    "attr_id": "START_DATE",
+    "attr_key": 2,
+    "attr_name": "Дата начала периода"
+  },
+  {
+    "dict_key": 2554,
+    "attr_idx": 2,
+    "attr_id": "NAME",
+    "attr_key": 3,
+    "attr_name": "Имя элемента календаря"
+  },
+  {
+    "dict_key": 2554,
+    "attr_idx": 3,
+    "attr_id": "ID",
+    "attr_key": 4,
+    "attr_name": "Идентификатор"
+  },
+  {
+    "dict_key": 2554,
+    "attr_idx": 4,
+    "attr_id": "ORDER",
+    "attr_key": 5,
+    "attr_name": "Порядок"
+  },
+  {
+    "dict_key": 2554,
+    "attr_idx": 5,
+    "attr_id": "PERIOD",
+    "attr_key": 6,
+    "attr_name": "Период"
+  },
+  {
+    "dict_key": 2554,
+    "attr_idx": 6,
+    "attr_id": "YEAR",
+    "attr_key": 7,
+    "attr_name": "Номер года"
+  },
+  {
+    "dict_key": 2636,
+    "attr_idx": 0,
+    "attr_id": "KEY",
+    "attr_key": 1,
+    "attr_name": "Ключ"
+  },
+  {
+    "dict_key": 2636,
+    "attr_idx": 1,
+    "attr_id": "NAME",
+    "attr_key": 2,
+    "attr_name": "Наименование"
+  },
+  {
+    "dict_key": 2636,
+    "attr_idx": 2,
+    "attr_id": "PARENT_KEY",
+    "attr_key": 3,
+    "attr_name": "Владелец"
+  },
+  {
+    "dict_key": 2636,
+    "attr_idx": 3,
+    "attr_id": "ORD",
+    "attr_key": 4,
+    "attr_name": "Порядок"
+  },
+  {
+    "dict_key": 2636,
+    "attr_idx": 4,
+    "attr_id": "ATTR10",
+    "attr_key": 12,
+    "attr_name": "Агрегация"
+  },
+  {
+    "dict_key": 2572,
+    "attr_idx": 0,
+    "attr_id": "KEY",
+    "attr_key": 1,
+    "attr_name": "Ключ"
+  },
+  {
+    "dict_key": 2572,
+    "attr_idx": 1,
+    "attr_id": "NAME",
+    "attr_key": 2,
+    "attr_name": "Наименование"
+  },
+  {
+    "dict_key": 2572,
+    "attr_idx": 2,
+    "attr_id": "PARENT_KEY",
+    "attr_key": 3,
+    "attr_name": "Владелец"
+  },
+  {
+    "dict_key": 2572,
+    "attr_idx": 3,
+    "attr_id": "ORD",
+    "attr_key": 4,
+    "attr_name": "Порядок"
+  },
+  {
+    "dict_key": 2572,
+    "attr_idx": 4,
+    "attr_id": "ATTR4",
+    "attr_key": 5,
+    "attr_name": "Агрегация"
+  },
+  {
+    "dict_key": 2552,
+    "attr_idx": 0,
+    "attr_id": "KEY",
+    "attr_key": 1,
+    "attr_name": "Ключ"
+  },
+  {
+    "dict_key": 2552,
+    "attr_idx": 1,
+    "attr_id": "NAME",
+    "attr_key": 2,
+    "attr_name": "Наименование"
+  },
+  {
+    "dict_key": 2552,
+    "attr_idx": 2,
+    "attr_id": "PARENT_KEY",
+    "attr_key": 3,
+    "attr_name": "Владелец"
+  },
+  {
+    "dict_key": 2552,
+    "attr_idx": 3,
+    "attr_id": "ORD",
+    "attr_key": 4,
+    "attr_name": "Порядок"
+  },
+  {
+    "dict_key": 2565,
+    "attr_idx": 0,
+    "attr_id": "KEY",
+    "attr_key": 1,
+    "attr_name": "Ключ"
+  },
+  {
+    "dict_key": 2565,
+    "attr_idx": 1,
+    "attr_id": "NAME",
+    "attr_key": 2,
+    "attr_name": "Наименование"
+  },
+  {
+    "dict_key": 2565,
+    "attr_idx": 2,
+    "attr_id": "PARENT_KEY",
+    "attr_key": 3,
+    "attr_name": "Владелец"
+  },
+  {
+    "dict_key": 2565,
+    "attr_idx": 3,
+    "attr_id": "ORD",
+    "attr_key": 4,
+    "attr_name": "Порядок"
+  },
+  {
+    "dict_key": 2565,
+    "attr_idx": 4,
+    "attr_id": "ATTR_CODE",
+    "attr_key": 5,
+    "attr_name": "Код"
+  },
+  {
+    "dict_key": 2565,
+    "attr_idx": 5,
+    "attr_id": "ATTR_FULL_NAME",
+    "attr_key": 6,
+    "attr_name": "Полное наименование"
+  },
+  {
+    "dict_key": 2568,
+    "attr_idx": 0,
+    "attr_id": "KEY",
+    "attr_key": 1,
+    "attr_name": "Ключ"
+  },
+  {
+    "dict_key": 2568,
+    "attr_idx": 1,
+    "attr_id": "NAME",
+    "attr_key": 2,
+    "attr_name": "Наименование"
+  },
+  {
+    "dict_key": 2568,
+    "attr_idx": 2,
+    "attr_id": "PARENT_KEY",
+    "attr_key": 3,
+    "attr_name": "Владелец"
+  },
+  {
+    "dict_key": 2568,
+    "attr_idx": 3,
+    "attr_id": "ORD",
+    "attr_key": 4,
+    "attr_name": "Порядок"
+  },
+  {
+    "dict_key": 2568,
+    "attr_idx": 4,
+    "attr_id": "ATTR_NP_1",
+    "attr_key": 5,
+    "attr_name": "Для фильтрации NP 1"
+  },
+  {
+    "dict_key": 2568,
+    "attr_idx": 5,
+    "attr_id": "ATTR5",
+    "attr_key": 6,
+    "attr_name": "Для фильтрации ZAK 1"
+  },
+  {
+    "dict_key": 2555,
+    "attr_idx": 0,
+    "attr_id": "KEY",
+    "attr_key": 1,
+    "attr_name": "Ключ"
+  },
+  {
+    "dict_key": 2555,
+    "attr_idx": 1,
+    "attr_id": "NAME",
+    "attr_key": 2,
+    "attr_name": "Наименование"
+  },
+  {
+    "dict_key": 2555,
+    "attr_idx": 2,
+    "attr_id": "PARENT_KEY",
+    "attr_key": 3,
+    "attr_name": "Владелец"
+  },
+  {
+    "dict_key": 2555,
+    "attr_idx": 3,
+    "attr_id": "ORD",
+    "attr_key": 4,
+    "attr_name": "Порядок"
+  },
+  {
+    "dict_key": 2570,
+    "attr_idx": 0,
+    "attr_id": "KEY",
+    "attr_key": 1,
+    "attr_name": "Ключ"
+  },
+  {
+    "dict_key": 2570,
+    "attr_idx": 1,
+    "attr_id": "NAME",
+    "attr_key": 2,
+    "attr_name": "Наименование"
+  },
+  {
+    "dict_key": 2570,
+    "attr_idx": 2,
+    "attr_id": "PARENT_KEY",
+    "attr_key": 3,
+    "attr_name": "Владелец"
+  },
+  {
+    "dict_key": 2570,
+    "attr_idx": 3,
+    "attr_id": "ORD",
+    "attr_key": 4,
+    "attr_name": "Порядок"
+  },
+  {
+    "dict_key": 2570,
+    "attr_idx": 4,
+    "attr_id": "ATTR_CUT_NAME",
+    "attr_key": 5,
+    "attr_name": "Сокращенное наименование"
+  },
+  {
+    "dict_key": 2559,
+    "attr_idx": 0,
+    "attr_id": "KEY",
+    "attr_key": 1,
+    "attr_name": "Ключ"
+  },
+  {
+    "dict_key": 2559,
+    "attr_idx": 1,
+    "attr_id": "NAME",
+    "attr_key": 2,
+    "attr_name": "Наименование"
+  },
+  {
+    "dict_key": 2559,
+    "attr_idx": 2,
+    "attr_id": "PARENT_KEY",
+    "attr_key": 3,
+    "attr_name": "Владелец"
+  },
+  {
+    "dict_key": 2559,
+    "attr_idx": 3,
+    "attr_id": "ORD",
+    "attr_key": 4,
+    "attr_name": "Порядок"
+  },
+  {
+    "dict_key": 2559,
+    "attr_idx": 4,
+    "attr_id": "ATTR_TYPE",
+    "attr_key": 5,
+    "attr_name": "Тип затрат"
+  }
+]

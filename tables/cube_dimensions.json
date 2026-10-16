@@ -1,0 +1,68 @@
+[
+  {
+    "cube_id": "CUB_OSP_1",
+    "dim_name": "Факты структуры хранения",
+    "dim_id": "DICT_INDICATOR_DATA_TYPES",
+    "dim_key": 2225
+  },
+  {
+    "cube_id": "CUB_OSP_1",
+    "dim_name": "Валюты",
+    "dim_id": "DICT_CURR",
+    "dim_key": 2557
+  },
+  {
+    "cube_id": "CUB_OSP_1",
+    "dim_name": "Контракты",
+    "dim_id": "DICT_CONTRACT",
+    "dim_key": 2636
+  },
+  {
+    "cube_id": "CUB_OSP_1",
+    "dim_name": "МВЗ",
+    "dim_id": "DICT_MVZ",
+    "dim_key": 2572
+  },
+  {
+    "cube_id": "CUB_OSP_1",
+    "dim_name": "Период",
+    "dim_id": "DICT_PERIOD",
+    "dim_key": 2552
+  },
+  {
+    "cube_id": "CUB_OSP_1",
+    "dim_name": "Показатели",
+    "dim_id": "DICT_INDIC",
+    "dim_key": 2565
+  },
+  {
+    "cube_id": "CUB_OSP_1",
+    "dim_name": "Статьи",
+    "dim_id": "DICT_ARTIC",
+    "dim_key": 2568
+  },
+  {
+    "cube_id": "CUB_OSP_1",
+    "dim_name": "Сценарии",
+    "dim_id": "DICT_SCENAR",
+    "dim_key": 2555
+  },
+  {
+    "cube_id": "CUB_OSP_1",
+    "dim_name": "ЦФО",
+    "dim_id": "DICT_TSFO",
+    "dim_key": 2570
+  },
+  {
+    "cube_id": "CUB_OSP_1",
+    "dim_name": "Элементы затрат",
+    "dim_id": "DICT_COST",
+    "dim_key": 2559
+  },
+  {
+    "cube_id": "CUB_OSP_1",
+    "dim_name": "Год",
+    "dim_id": "DICT_YEAR",
+    "dim_key": 2554
+  }
+]

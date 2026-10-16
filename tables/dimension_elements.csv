@@ -1,0 +1,11 @@
+﻿cube_id,dim_id,elem_key,elem_name
+CUB_OSP_1,DICT_INDICATOR_DATA_TYPES,1,Число
+CUB_OSP_1,DICT_CURR,1,Валюты договора
+CUB_OSP_1,DICT_CONTRACT,1,Без учета контракта
+CUB_OSP_1,DICT_MVZ,1,0. Орг. в целом
+CUB_OSP_1,DICT_PERIOD,1,P0
+CUB_OSP_1,DICT_INDIC,4,Показатели по счетам
+CUB_OSP_1,DICT_ARTIC,1,Средний курс за период
+CUB_OSP_1,DICT_SCENAR,1,Бюджет
+CUB_OSP_1,DICT_TSFO,1,Без учета ЦФО
+CUB_OSP_1,DICT_YEAR,1,2018

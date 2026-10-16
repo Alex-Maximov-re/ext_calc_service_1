@@ -1,0 +1,62 @@
+[
+  {
+    "cube_id": "CUB_OSP_1",
+    "dim_id": "DICT_INDICATOR_DATA_TYPES",
+    "elem_key": "1",
+    "elem_name": "Число"
+  },
+  {
+    "cube_id": "CUB_OSP_1",
+    "dim_id": "DICT_CURR",
+    "elem_key": "1",
+    "elem_name": "Валюты договора"
+  },
+  {
+    "cube_id": "CUB_OSP_1",
+    "dim_id": "DICT_CONTRACT",
+    "elem_key": "1",
+    "elem_name": "Без учета контракта"
+  },
+  {
+    "cube_id": "CUB_OSP_1",
+    "dim_id": "DICT_MVZ",
+    "elem_key": "1",
+    "elem_name": "0. Орг. в целом"
+  },
+  {
+    "cube_id": "CUB_OSP_1",
+    "dim_id": "DICT_PERIOD",
+    "elem_key": "1",
+    "elem_name": "P0"
+  },
+  {
+    "cube_id": "CUB_OSP_1",
+    "dim_id": "DICT_INDIC",
+    "elem_key": "4",
+    "elem_name": "Показатели по счетам"
+  },
+  {
+    "cube_id": "CUB_OSP_1",
+    "dim_id": "DICT_ARTIC",
+    "elem_key": "1",
+    "elem_name": "Средний курс за период"
+  },
+  {
+    "cube_id": "CUB_OSP_1",
+    "dim_id": "DICT_SCENAR",
+    "elem_key": "1",
+    "elem_name": "Бюджет"
+  },
+  {
+    "cube_id": "CUB_OSP_1",
+    "dim_id": "DICT_TSFO",
+    "elem_key": "1",
+    "elem_name": "Без учета ЦФО"
+  },
+  {
+    "cube_id": "CUB_OSP_1",
+    "dim_id": "DICT_YEAR",
+    "elem_key": "1",
+    "elem_name": "2018"
+  }
+]

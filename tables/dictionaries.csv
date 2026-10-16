@@ -1,0 +1,12 @@
+﻿dict_key,dict_id,dict_name
+2225,DICT_INDICATOR_DATA_TYPES,Факты структуры хранения
+2557,DICT_CURR,Валюты
+2554,DICT_YEAR,Год
+2636,DICT_CONTRACT,Контракты
+2572,DICT_MVZ,МВЗ
+2552,DICT_PERIOD,Период
+2565,DICT_INDIC,Показатели
+2568,DICT_ARTIC,Статьи
+2555,DICT_SCENAR,Сценарии
+2570,DICT_TSFO,ЦФО
+2559,DICT_COST,Элементы затрат

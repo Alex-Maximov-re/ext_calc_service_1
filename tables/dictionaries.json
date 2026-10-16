@@ -1,0 +1,57 @@
+[
+  {
+    "dict_key": 2225,
+    "dict_id": "DICT_INDICATOR_DATA_TYPES",
+    "dict_name": "Факты структуры хранения"
+  },
+  {
+    "dict_key": 2557,
+    "dict_id": "DICT_CURR",
+    "dict_name": "Валюты"
+  },
+  {
+    "dict_key": 2554,
+    "dict_id": "DICT_YEAR",
+    "dict_name": "Год"
+  },
+  {
+    "dict_key": 2636,
+    "dict_id": "DICT_CONTRACT",
+    "dict_name": "Контракты"
+  },
+  {
+    "dict_key": 2572,
+    "dict_id": "DICT_MVZ",
+    "dict_name": "МВЗ"
+  },
+  {
+    "dict_key": 2552,
+    "dict_id": "DICT_PERIOD",
+    "dict_name": "Период"
+  },
+  {
+    "dict_key": 2565,
+    "dict_id": "DICT_INDIC",
+    "dict_name": "Показатели"
+  },
+  {
+    "dict_key": 2568,
+    "dict_id": "DICT_ARTIC",
+    "dict_name": "Статьи"
+  },
+  {
+    "dict_key": 2555,
+    "dict_id": "DICT_SCENAR",
+    "dict_name": "Сценарии"
+  },
+  {
+    "dict_key": 2570,
+    "dict_id": "DICT_TSFO",
+    "dict_name": "ЦФО"
+  },
+  {
+    "dict_key": 2559,
+    "dict_id": "DICT_COST",
+    "dict_name": "Элементы затрат"
+  }
+]
